@@ -1,0 +1,10 @@
+
+---
+title :  <% tp.file.title %>
+draft: true
+noteOrder:
+
+---
+
+
+
