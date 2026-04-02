@@ -13,7 +13,7 @@ divide data types into primitive and non-primitive data types. Primitive data ty
 
 ### Video lesson
 
-
+![Data types in Java](https://youtu.be/wBt8IHb1Jjk)
 
 
 
