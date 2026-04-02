@@ -19,7 +19,7 @@ To install BlueJ - [BlueJ installation](https://bluej.org/)
 
 Once you finish the installation, you can write your first Java program. Follow the video lesson to learn how
 
-
+![Write your first Java program!](https://youtu.be/ka1tFM63rnY)
 
 ### Syntax 
 
