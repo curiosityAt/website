@@ -11,6 +11,7 @@ Data types are helpful to use different types of values in a program, but we can
 
 ### Video lesson
 
+![Variables in Java](https://youtu.be/ALq-5JoTeG0)
 
 ### Syntax
 
