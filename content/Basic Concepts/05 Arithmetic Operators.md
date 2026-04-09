@@ -11,6 +11,8 @@ We already learnt about operators in Math. These are symbols we can use to perfo
 
 ### Video lesson
 
+![Arithmetic Operators in Java](https://youtu.be/NCVUecPMCSo)
+
 ### Syntax
 
 ```Java
