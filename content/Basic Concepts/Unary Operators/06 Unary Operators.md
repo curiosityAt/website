@@ -19,7 +19,7 @@ Java also allows us to perform arithmetic operations on a single value and gives
 
 ### Video lesson
 
-
+![Unary Operators in Java](https://youtu.be/6JKODsUvBw0)
 
 ### Syntax
 
