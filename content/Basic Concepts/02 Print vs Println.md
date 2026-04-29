@@ -23,6 +23,7 @@ Although they look similar and end up printing the same thing, they behave diffe
 
 ### Video lesson
 
+![Print vs Println Statements](https://youtu.be/syV9_sO--4o)
 
 ### Syntax
 
