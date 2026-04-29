@@ -11,6 +11,7 @@ Relational operators are useful in comparing two different values. If we have tw
 
 ### Video Lesson
 
+![Relational Operators in Java](https://youtu.be/Auqz-uLTYTU?si=i085n71UBn4I9YOo)
 
 ### Syntax
 
