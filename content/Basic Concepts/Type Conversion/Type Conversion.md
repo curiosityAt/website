@@ -17,6 +17,7 @@ The value of area will obviously be a decimal number, so area would be a double 
 
 ### Video lesson
 
+![Type conversion - implicit and explicit](https://youtu.be/RPuSuQr4664)
 
 ### Syntax
 
