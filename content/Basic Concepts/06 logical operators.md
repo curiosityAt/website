@@ -11,6 +11,7 @@ Although relational or arithmetic operators are something we use a lot in real l
 
 ### Video Lesson
 
+![Logical Operators in Java](https://youtu.be/rTE2uXfeus0)
 
 ### Syntax
 
