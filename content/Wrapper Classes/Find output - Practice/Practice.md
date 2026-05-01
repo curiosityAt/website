@@ -17,7 +17,7 @@ Try to answer the following simple questions on wrapper class vocab and terms. T
 
 ### Find the output
 
-The following questions are all similar. All of them ask you to evaluate the output of a block of code. Check the vid
+The following questions are all similar. All of them ask you to evaluate the output of a block of code. Check the video solutions if you're stuck anywhere.
 
 
 ![[Library Classes - Find the output.pdf]]
