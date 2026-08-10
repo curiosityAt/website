@@ -5,8 +5,9 @@ tags:
 
 
 ---
-
+<head>
 <meta name="google-site-verification" content="Ct-c2IFleGbVHmq279eesb29q6pUmX-WYwk2IEst7pM" />
+</head>
 
 In this page, you'll find videos and practice questions to help you learn the Java programming language. Although the videos were made according to the ICSE curriculum, they're useful for everyone wanting to learn the basics of programming. I also added practice questions and video solutions for most of the questions. They should be helpful too. 
 
